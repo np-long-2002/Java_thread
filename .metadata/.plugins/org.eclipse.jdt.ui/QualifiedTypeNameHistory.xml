@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="MyThread1"/>
+    <fullyQualifiedTypeName name="Thread1"/>
+    <fullyQualifiedTypeName name="Thread2"/>
+    <fullyQualifiedTypeName name="view.GUI"/>
+    <fullyQualifiedTypeName name="java.lang.ThreadLocal"/>
+    <fullyQualifiedTypeName name="model.TransThread"/>
+    <fullyQualifiedTypeName name="model.RunThread"/>
+    <fullyQualifiedTypeName name="model.TaiKhoan"/>
+    <fullyQualifiedTypeName name="Customer"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="javax.swing.table.DefaultTableModel"/>
+    <fullyQualifiedTypeName name="java.lang.Object"/>
+    <fullyQualifiedTypeName name="java.util.Vector"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="BankAccount"/>
+    <fullyQualifiedTypeName name="TransferThread"/>
+    <fullyQualifiedTypeName name="java.util.concurrent.ThreadLocalRandom"/>
+    <fullyQualifiedTypeName name="java.lang.Thread"/>
+    <fullyQualifiedTypeName name="java.lang.Runnable"/>
+    <fullyQualifiedTypeName name="RunThread"/>
+</qualifiedTypeNameHistroy>
